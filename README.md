@@ -4,7 +4,7 @@
 
 - 🎓 **Current Status:** Foundation Level at IIT Madras (Mathematics, Statistics, Python).
 - 🎬 **Creative Skill:** Aspiring Video Editor (CapCut/PC Editing).
-- 🎯 **Future Goal:** Targeting GATE and Research at IIT Delhi.
+- 🎯 **Future Goal:** Targeting GATE and Research.
 - 💼 **Freelancing:** Mathematics Tutor & Content Creator.
 
 ---
