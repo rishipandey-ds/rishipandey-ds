@@ -6,6 +6,7 @@
 - 🎬 **Creative Skill:** Aspiring Video Editor (PC Editing).
 - 🎯 **Future Goal:** Targeting GATE and Research.
 - 💼 **Freelancing:** Mathematics Tutor & Video Editor..
+-💞 I’m looking to collaborate with other amazing developers
 
 ---
 
