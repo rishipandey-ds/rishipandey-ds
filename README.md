@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Rishi Pandey! 👋
 
-<!--
-**rishipandey-ds/rishipandey-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BS in Data Science Student at IIT Madras | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+- 🎓 **Current Status:** Foundation Level at IIT Madras (Mathematics, Statistics, Python).
+- 🎬 **Creative Skill:** Aspiring Video Editor (CapCut/PC Editing).
+- 🎯 **Future Goal:** Targeting GATE and Research at IIT Delhi.
+- 💼 **Freelancing:** Mathematics Tutor & Content Creator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Digital Lab
+- **Learning:** Python & Data Science Foundations
+- **Tools:** CapCut, GitHub, Google Docs
+- **Interests:** Data-driven storytelling & AI Research
+
+📫 **Connect with me:** www.linkedin.com/in/rishipandey-ds
