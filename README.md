@@ -3,9 +3,9 @@
 ### BS in Data Science Student at IIT Madras | Aspiring Data Scientist
 
 - 🎓 **Current Status:** Foundation Level at IIT Madras (Mathematics, Statistics, Python).
-- 🎬 **Creative Skill:** Aspiring Video Editor (CapCut/PC Editing).
+- 🎬 **Creative Skill:** Aspiring Video Editor (PC Editing).
 - 🎯 **Future Goal:** Targeting GATE and Research.
-- 💼 **Freelancing:** Mathematics Tutor & Content Creator.
+- 💼 **Freelancing:** Mathematics Tutor & Video Editor.
 
 ---
 
