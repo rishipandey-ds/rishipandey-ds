@@ -16,3 +16,4 @@
 - **Interests:** Data-driven storytelling & AI Research
 
 📫 **Connect with me:** www.linkedin.com/in/rishipandey-ds
+**Email:26f2000377@ds.study.iitm.ac.in
